@@ -1,0 +1,8 @@
+# exam-so-sistemas-2019-01
+
+
+PRIMER PARCIAL DE SISTEMAS OPERATIVOS
+
+
+[PUNTO1](punto1)
+[PUNTO2](punto#2)
